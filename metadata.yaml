@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38458#The-Enemies-of-Women-Los-enemigos-de-la-mujer-
 gutenberg_issued: '2012-01-01'
 gutenberg_type: Text
 identifiers:
