@@ -1,0 +1,40 @@
+_repo: The-Enemies-of-Women-Los-enemigos-de-la-mujer-_38458
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brown, Irving
+    alias: Brown, Irving Henry
+    birthdate: 1888
+    deathdate: 1940
+    gutenberg_agent_id: '39480'
+    url: http://www.gutenberg.org/2009/agents/39480
+covers:
+- cover_type: archival
+  image_path: 38458-h/images/cover_lg.jpg
+creator:
+  author:
+    agent_name: Blasco Ibáñez, Vicente
+    aliases:
+    - Blasco Ibanez, Vicente
+    - Ibáñez, Vicente Blasco
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '647'
+    url: http://www.gutenberg.org/2009/agents/647
+    wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
+description: ''
+gutenberg_issued: '2012-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Love stories'
+- !lcsh 'War stories'
+- !lcc 'PQ'
+- !lcsh 'Women -- Fiction'
+title: The Enemies of Women (Los enemigos de la mujer)
+url: http://www.gutenberg.org/ebooks/38458
